@@ -1,5 +1,5 @@
 # LyricsScraper
-A simple app that scrapes and displays lyrics to Spotify in a Console-UI
+A simple app that scrapes and displays lyrics to Spotify in a Console-UI.
 One of my first apps ever made..😅
 
 ### Example:
